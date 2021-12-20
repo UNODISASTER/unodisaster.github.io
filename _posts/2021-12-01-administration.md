@@ -1,10 +1,10 @@
 ---
 title: 2022 Welcome and Onboarding
 tags: admin, intent, templates, potential, 2022
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+# article_header:
+#   type: cover
+#   image:
+#     src: /screenshot.jpg
 ---
 
 The researchers associated with the University of Nebraska at Omaha believe that research and work should be public, processes available to read, reviews of cited pieces available to see, and op-eds about topical items available to all. 
