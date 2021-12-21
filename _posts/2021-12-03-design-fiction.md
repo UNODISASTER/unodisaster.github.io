@@ -47,11 +47,20 @@ While these types of design documents and paper-prototypes are essentially the s
 
 ### Gather practitioner feedback for a design fiction via interviews, streaming demonstrations, and various participatory design concepts 
 
-A survey can provide some useful pieces of knowledge that exist across jurisdictions; however, given the dearth of knowledge that exists within the practice of EM, a survey is not enough. As such, much of the work surrounding technological development of technologies that will work within existing practice 
+A survey can provide some useful pieces of knowledge that exist across jurisdictions, types of EM, and other facets of practice; however, given the dearth of knowledge that exists within the practice of EM, a survey is not enough. As such, much of the work surrounding technological development of technologies that will work within existing practice needs to determine the qualities of practice. As such, qualitative methods like focus groups, interviews, and ethnography. 
+
+Through these types of methods, we can not only expand on the initial survey, but begin to unpack some of the confusing portions of the results of that survey. This information is important to gather as the ways that practices overlap that neither practitioners can articulate nor academia or software developers can intuit can be made manifest. Through these data, more depth into practice can not only be found, but perhaps brought closer to the surface and enhanced either through technology or training. 
+
 
 ### Examine both DF in tandem to see overlap, gaps, and mutually beneficial spaces of development
 
-
+Gathering data is one thing, analyzing it another, putting those data into use is something else altogether. 
 
 ### Move from fiction toward reality through training, pedagogy, and tool development
+
+Years of data collection, analysis, and digging deeper into EM practice will produce a variety of data. Analyzing those data will produce a number of insights. It is not enough to produce insights; instead, this work needs to attempt to produce proof-of-concept objects, prototypes, or various kinds of design fictions that are detailed enough for others to use. 
+
+Further, it is additionally not enough to produce prototypes. The issue of the prototype resides in the, "Paradox of the active user" wherein users will never be anymore than mediocre with any product they are meant to use. While the reaction to this paradox was the manifestation of minimalism and the re-distribution of complexity in the face of designing software, the theater of use, the context of use, needs to be more than mediocre, less than expert, but always available without effort.
+
+To manage this, lessons in the form of [Software Carpentry](https://software-carpentry.org/) for these products can introduce swathes of users to the end of this work. In so doing this, we can provide more and more users with enough expertise to bring this back to their stations, their agencies, or their jurisdiction. In addition to these trainings, we can additionally provide all of the tools via USB drive, releases via a github repository, and additional information on future development post-training. Each of these methods of training paired with distribution will slowly result in a snowball effect resulting in (hopefully) a changing practice.
 
