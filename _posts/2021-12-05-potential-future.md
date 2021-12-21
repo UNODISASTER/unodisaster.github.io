@@ -1,6 +1,6 @@
 ---
-title: Welcome
-tags: TeXt
+title: Potential Futures and the Increasing Frequency of Disaster
+tags: crisis informatics, speculative futures, IOT, climate change
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
