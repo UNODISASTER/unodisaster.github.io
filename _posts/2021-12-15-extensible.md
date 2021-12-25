@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: On the Concept of Extensible Products, Languages, and other software
 tags: TeXt
 ---
 

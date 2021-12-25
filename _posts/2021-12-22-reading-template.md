@@ -1,16 +1,35 @@
 ---
-title: Welcome
-tags: TeXt
+title: A Template for Reading Assignments
+tags: Template, GA, Readings, 2022
 ---
 
-If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
+Starting in 2022, there will be some of the first graduate students that will begin working with the University of Nebraska at Omaha College of Information Science and Technology. An aspect of this work that is important is to understand the work done prior to their entry. 
 
-You may want to [config the site](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration) or [writing a post](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts) next. Please feel free to [create an issue](https://github.com/kitian616/jekyll-TeXt-theme/issues) or [send me email](mailto:kitian616@outlook.com) if you have any questions.
-
-<!--more-->
+Articles and posts like this one will serve to offer insights and potential lessons-learned from those students. Any new read can produce wisdom, and so we offer these readings to build capacity and onboard these students for more robust work. 
 
 ---
 
-If you like TeXt, don't forget to give me a star. :star2:
+### The template of this work is realtively straight forward and can be found below: 
 
-[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
+	Title:
+	Conference Proceedings or Publisher:
+	Year Published:
+	Authors:
+	Author's Affiliation at time of publication:
+	Abstract:
+	Strengths:
+	Weaknesses:
+	Uses in their work:
+
+Example: 
+
+	Title:
+	Conference Proceedings or Publisher:
+	Year Published:
+	Authors:
+	Author's Affiliation at time of publication:
+	Abstract:
+	Strengths:
+	Weaknesses:
+	Uses in their work:
+

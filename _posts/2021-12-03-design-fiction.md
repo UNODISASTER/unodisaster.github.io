@@ -54,7 +54,9 @@ Through these types of methods, we can not only expand on the initial survey, bu
 
 ### Examine both DF in tandem to see overlap, gaps, and mutually beneficial spaces of development
 
-Gathering data is one thing, analyzing it another, putting those data into use is something else altogether. 
+Gathering data is one thing, analyzing it another, putting those data into use is something else altogether. Network analysis, thematic analysis, and various forms of qualitative measures can not only find commonalities, but also find the qualities of those commonalities. In this way, we meet Gabriel Tarde's approach of seeking what makes things similar as differemce, being different, is simply existance and seeking to underpin, to highlight, to reify those differences is only a way of widening gaps. 
+
+
 
 ### Move from fiction toward reality through training, pedagogy, and tool development
 

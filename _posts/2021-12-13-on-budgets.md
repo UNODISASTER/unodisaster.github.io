@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: What sorts of budgetary constraints to worry about?
 tags: TeXt
 ---
 

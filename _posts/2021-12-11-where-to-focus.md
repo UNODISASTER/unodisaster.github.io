@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Where to Focus, Where to Begin, What to Expect
 tags: TeXt
 ---
 

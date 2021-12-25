@@ -12,7 +12,7 @@ The researchers associated with the University of Nebraska at Omaha believe that
 As this is a University-oriented research space, the intent of this blog, webpage, and github repository is meant to provide 3 distinct pieces of training: 
 
 1. Onboarding for graduate students. 
-2. Writing practice. 
+2. Capacity Building. 
 3. Advertising of past, current, and future research. 
 
 <!--more-->
@@ -26,7 +26,7 @@ As of 2022, the work and approaches we are engaged on are best described as:
 
 Each of these approaches holistically relate to the [Integration of Science and Technology with Emergency Managment]() or a ground-up approach to helping to bridge the gap between consumer behavior and emergency management capabilities. The easiest way to explain this gap is to point to the proliferation of mobile devices and its impact on what everyday consumers will attempt to do when they are in danger.
 
-Within this blog entry, we outline current understanding of our work and will identify central readings we are using to center our own work. 
+Within this post, we outline current understanding of our work and will identify central readings we are using to center our own work. 
  
 <a name="curr_tech"></a>
 ## What are the current technical capabilities of emergency management?
@@ -50,9 +50,9 @@ As of 2022, the central readings of this space include 4 distinct pieces:
 
 Philosophically, this work uses: 
 
-  - 
-  - 
-  - 
+  - No Such Thing as a Natural Disaster
+  - The Oldsmar Water Plant Cyberattack
+  - Godel Escher Bach
 
 <a name="min_approach"></a>
 ## What are the bare minimum approaches of machine learning, artificial intelligence, and information retrieval?
@@ -83,6 +83,10 @@ As of 2022, the central readings of this space include 3 distinct pieces:
   - SAR 
   - We Hold These Truths
   - Low Fidelity Wargame
+  - Simulation and Heart Surgery
+  - Simulation and Situation Awareness
+  - Nordic LARP
+  - 
 
 <!-- A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
  -->

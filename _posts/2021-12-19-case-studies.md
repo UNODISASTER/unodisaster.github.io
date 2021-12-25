@@ -1,16 +1,12 @@
 ---
-title: Welcome
-tags: TeXt
+title: Case Studies and Technology
+tags: Case Studies, ICT Use, Integration, Development
 ---
 
-If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
-
-You may want to [config the site](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration) or [writing a post](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts) next. Please feel free to [create an issue](https://github.com/kitian616/jekyll-TeXt-theme/issues) or [send me email](mailto:kitian616@outlook.com) if you have any questions.
-
-<!--more-->
+After-Action Reports (AAR), Case Studies, and the assembled wisdom of a response effort is often assembled after the action is done. These reports are shared, discussed, and used on occassion for tabletop exercises but it is rare to see multiple AARs, case studies, or institutional knowledge assembled and used to make better sense of emergency management (EM) as a whole. A central component of the work here then is to do just that. How? What? Are important questions to answer. 
 
 ---
 
-If you like TeXt, don't forget to give me a star. :star2:
+### How will case studies, after-action reports, and institutional knowledge be used in this research?
 
-[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
+### What case studies, after-action reports, and isntitutional knowledge is important to this research?
