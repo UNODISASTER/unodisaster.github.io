@@ -56,7 +56,7 @@ Through these types of methods, we can not only expand on the initial survey, bu
 
 Gathering data is one thing, analyzing it another, putting those data into use is something else altogether. Network analysis, thematic analysis, and various forms of qualitative measures can not only find commonalities, but also find the qualities of those commonalities. In this way, we meet Gabriel Tarde's approach of seeking what makes things similar as differemce, being different, is simply existance and seeking to underpin, to highlight, to reify those differences is only a way of widening gaps. 
 
-With those identified, the seams of difference based on ICS, based on jurisdiction, and other forms of those things 
+With those identified, seams can be found. Seams in this case are essentially breaking points in technological systems. These are typocally caused by combinations of events, sensor capabilities, or network coverage. EM tends to deal with seams as everything they respond to is essentially the result of seams that existed but were not applicable until a natural hazard made them so. While the seams of difference within EM are based on ICS, based on jurisdiction, and other forms of those things, these are internal politics and will continue regardless of action. The seams of technology, on the other hand, should be far more understood by EM and those understandings should be part and parcel of the ways EM learns to function.
 
 ### Move from fiction toward reality through training, pedagogy, and tool development
 
