@@ -43,16 +43,16 @@ This work was carried out as an attempt to unpack current issues within the stud
 
 As of 2022, the central readings of this space include 4 distinct pieces: 
 
-  - OIG Report
-  - RAND Scoping Lit Review
-  - Hughes Piece
-  - Palen / Anderson piece
+  - Department of Homeland Security Office of the Inspector General. 2019. FEMA’s Longstanding IT Deficiencies Hindered 2017 Response and Recovery Operations. https://www.oig.dhs.gov/sites/default/files/assets/2019-08/OIG-19-58-Aug19.pdf
+  - Melissa Finucane, Linnea Warren May, and Joan Change. [n.d.]. A Scoping Literature Review on Indicators and Metrics for Assessing Racial Equity in Disaster Preparation, Response, and Recovery. https://www.rand.org/pubs/research_reports/RRA1083-1.html
+  - Reuter, Christian, Amanda Lee Hughes, and Marc-André Kaufhold. "Social media in crisis management: An evaluation and analysis of crisis informatics research." International Journal of Human–Computer Interaction 34.4 (2018): 280-294.
+  - Palen, Leysia, and Kenneth M. Anderson. "Crisis informatics—New data for extraordinary times." Science 353.6296 (2016): 224-225.
 
 Philosophically, this work uses: 
 
-  - No Such Thing as a Natural Disaster
-  - The Oldsmar Water Plant Cyberattack
-  - Godel Escher Bach
+  - Hartman, Chester W., Gregory Squires, and Gregory D. Squires, eds. There is no such thing as a natural disaster: Race, class, and Hurricane Katrina. Taylor & Francis, 2006.
+  - The Oldsmar Water Plant Cyberattack: https://www.abcactionnews.com/news/region-pinellas/hacker-increases-chemical-levels-at-oldsmars-water-treatment-plant-sheriff-says
+  - Hofstadter, Douglas R. Gödel, Escher, Bach: An Eternal Golden Braid. London: Harvester Press, 1979. 
 
 <a name="min_approach"></a>
 ## What are the bare minimum approaches of machine learning, artificial intelligence, and information retrieval?
@@ -65,9 +65,10 @@ As a result, we seek to expand on calls for "practical" applications of machine 
 
 As of 2022, the central readings of this space include 3 distinct pieces: 
 
-  - Practical AI
-  - Untrained ML
-  - Information Retrieval
+  - He, Jianxing, et al. "The practical implementation of artificial intelligence technologies in medicine." Nature medicine 25.1 (2019): 30-36.
+  - Holzinger, Andreas. "Interactive machine learning for health informatics: when do we need the human-in-the-loop?." Brain Informatics 3.2 (2016): 119-131.
+  - Hu, Wenjian, Rajiv RP Singh, and Richard T. Scalettar. "Discovering phases, phase transitions, and crossovers through unsupervised machine learning: A critical examination." Physical Review E 95.6 (2017): 062122.
+  - Jones, Karen Sparck, and Peter Willett, eds. Readings in information retrieval. Morgan Kaufmann, 1997.
 
 <a name="type_training"></a>
 ## What types of training could be possible?
@@ -80,13 +81,11 @@ While this work is primarily focused on gathering syllabi, tabletop exercises, a
 
 As of 2022, the central readings of this space include 3 distinct pieces: 
 
-  - SAR 
-  - We Hold These Truths
-  - Low Fidelity Wargame
-  - Simulation and Heart Surgery
-  - Simulation and Situation Awareness
-  - Nordic LARP
-  - 
+  - Alharthi, Sultan A., et al. "An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices." Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. 
+  - Stark, Lizzie. "We Hold these Rules to be Self-Evident: Larp as Metaphor for American Identity." States of Play: Nordic Larp around the World (2012): 184-189.
+  - Waldenström, Christofer. "Using a low-fidelity wargame for training fleet-level command and control in the classroom." proceedings of the 17th international command and control research and technology symposium. 2012.
+  - Sharma, Mitesh, and Alan Horgan. "Comparison of fresh-frozen cadaver and high-fidelity virtual reality simulator as methods of laparoscopic training." World journal of surgery 36.8 (2012): 1732-1737.
+  - Endsley, Mica R., Randy Sollenberger, and Earl Stein. "Situation awareness: A comparison of measures." Proceedings of the human performance, situation awareness and automation: user-centered design for the new millennium (2000): 15-19.
 
 <!-- A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
  -->
