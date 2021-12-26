@@ -22,7 +22,7 @@ As of 2022, the work and approaches we are engaged on are best described as:
 
 1. [Exploring what the current technical capabilities of emergency management are.](#curr_tech)
 2. [Exploring the bare minimum approaches of machine learning, artificial intelligence, and information retrieval that can be used within those capabilities.](#min_approach) 
-3. [Exploring what types of training could be possible given the history of tabletop role-playing games, vintage game approaches like PICO-8, and what technologies could fit into existing emergency management programs.](type_training) 
+3. [Exploring what types of training could be possible given the history of tabletop role-playing games, vintage game approaches like PICO-8, and what technologies could fit into existing emergency management programs.](#type_training) 
 
 Each of these approaches holistically relate to the [Integration of Science and Technology with Emergency Managment]() or a ground-up approach to helping to bridge the gap between consumer behavior and emergency management capabilities. The easiest way to explain this gap is to point to the proliferation of mobile devices and its impact on what everyday consumers will attempt to do when they are in danger.
 
