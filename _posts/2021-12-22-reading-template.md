@@ -22,7 +22,7 @@ Articles and posts like this one will serve to offer insights and potential less
 	Weaknesses:
 	Uses in our work:
 
-Example: 
+### Example: 
 
 **Post Author:** Nick LaLone
 **Title:** Paradox of the Active User
