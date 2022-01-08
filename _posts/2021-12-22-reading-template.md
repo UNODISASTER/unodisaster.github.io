@@ -25,11 +25,17 @@ Articles and posts like this one will serve to offer insights and potential less
 ### Example: 
 
 **Post Author:** Nick LaLone
+
 **Title:** Paradox of the Active User
+
 **Conference Proceedings or Publisher:** Chapter in Interfacing Thought: Cognitive Aspects of Human-Computer Interaction
+
 **Year Published:** 1987
+
 **Authors:** John (Jack) Carroll and Mary Beth Rosson
+
 **Author's Affiliation:** Pennsylvania State University iSchool 
+
 **Abstract:** Book Chapter so no Abstract
 
 **Strengths:** This chapter focuses on the idea that humans were beginning to use computation in their everyday lives. It focuses on 2 distinct ideas: 
