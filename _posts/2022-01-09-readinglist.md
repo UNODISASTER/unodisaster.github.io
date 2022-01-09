@@ -11,6 +11,8 @@ This semester marks Dr. LaLone's first with his own PhD students. A routine acti
 
 The result of these dates is that there are around 14 weeks of content. Responses will be due each Sunday. 
 
+---
+
 Each of the readings will be essential readings in content related to the focus of current research: tabletop games, emergency management, and crisis informatics. To be a bit higher level, since these two students are new, they will be readings from human-computer interaction, methods readings, and papers related to the research we will be doing.
 
 The dates then are: 
