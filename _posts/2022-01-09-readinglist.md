@@ -3,7 +3,7 @@ title: Reading Assignments: Spring 2022
 tags: 2022, Spring, Reading List, New Students
 ---
 
-This semester marks Dr. LaLone's first with students. A routine activity Dr. LaLone has declared are to post weekly reading responses. There are 16 weeks in a semester. 
+This semester marks Dr. LaLone's first with his own PhD students. A routine activity Dr. LaLone has declared are to post weekly reading responses. There are 16 weeks in a semester. 
 
 * Classes begin January 24
 * Spring Break is March 12-16
