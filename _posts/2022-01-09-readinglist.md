@@ -1,5 +1,5 @@
 ---
-title: How it all fits together
+title: Reading Assignments: Spring 2022
 tags: 2022, Spring, Reading List, New Students
 ---
 
