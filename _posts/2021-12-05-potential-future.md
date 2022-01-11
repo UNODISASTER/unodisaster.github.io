@@ -11,3 +11,10 @@ Despite our best intentions, our language, our rhetorical tools, we do not trave
 
 ---
 
+Modern consumers have a number of realities that must be coped with: 
+
+1. They have a mobile device, maybe several. 
+2. They have social media accounts. 
+3. On those social media accounts, they are targeted, buffeted, and overwhelmed with ads, information, and content. 
+4. The first reaction to disaster will inevitably be to pull out a device and record it, talk about it, or something involving that device.
+
