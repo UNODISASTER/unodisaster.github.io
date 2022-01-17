@@ -9,6 +9,15 @@ Articles and posts like this one will serve to offer insights and potential less
 
 ---
 
+Dr. Brian Dorn will additionally provide these tips but they're useful to remember: 
+
+* If you don't understand terms or techniques in a paper, look them up!
+* Some papers we will explore this semester don't fully align with the standard "lab report" format.  In particular, literature surveys and more theoretical pieces come to mind.  Be thoughtful and adapt your reading strategies based on what kind of scholarly article it is you are reading.
+* Read some helpful tips about how to read papers from other scientists in this Science piece by Elisabeth Pain: https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper 
+* Here's another take on CS reading papers from Dr. Madooei at the University of British Columbia: https://elearning.uniroma1.it/pluginfile.php/397233/mod_resource/content/2/ReadingAdvice.pdf 
+
+---
+
 ### The template of this work is realtively straight forward and can be found below: 
 
 	Post Author:
